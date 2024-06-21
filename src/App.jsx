@@ -8,7 +8,7 @@ import  Dashboard from './Pages/Dashboard';
 
 function App() {
   return (
-    <Router basename="/Employeeapp_frontend">
+    <Router basename="/employee-portal">
       <div>
         <Navbar />
         <Routes>
